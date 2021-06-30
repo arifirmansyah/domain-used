@@ -17,8 +17,8 @@ https://apollonodes.com/
 https://www.skynode.pro/    
 https://apexminecrafthosting.com/    
 https://www.dreamhost.com/    
-    
-    
+https://falixnodes.net/    
+https://hosthorde.net/ Subdomain    
     
     
     
