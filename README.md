@@ -9,8 +9,8 @@ https://framework7.io
 https://www.photonengine.com/ multiplayer server 4 game    
     
     
-BIG COMMUNITIES to GET SUPPORT
-https://www.reddit.com/
+BIG COMMUNITIES to GET SUPPORT    
+https://www.reddit.com/    
 https://itch.io/    
 https://twitch.tv    
 https://discord.com/ create channel first    
