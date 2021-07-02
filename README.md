@@ -49,5 +49,12 @@ https://tlauncher.org/en/
     
 Bonus Wifi | ssid:password    
 @Perpus Kota Jogjakarta | faaqd5 : 26ue8n    
+@Wifi Alun" Sleman - perpus sleman | koneksikan lalu login di web browser     
+@Jogja Digital Valley |     
+    
+    
+    
+    
+    
     
     
