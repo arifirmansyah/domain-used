@@ -16,7 +16,8 @@ https://play.google.com/
 https://www.apple.com/app-store/    
 https://play.google.com/apps/publish    
 https://pdf2png.com/    
-
+https://www.freecodecamp.org/    
+https://www.dicoding.com/events    
     
     
 BIG COMMUNITIES to GET SUPPORT    
