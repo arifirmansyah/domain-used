@@ -6,6 +6,8 @@ https://ctjs.rocks/
 https://netlify.com    
 https://www.aseprite.org/    
 https://ytmp3.cc/    
+https://mp3cut.net/    
+https://clideo.com/    
 https://www.construct.net/en    
 https://cordova.apache.org/    
 https://framework7.io    
