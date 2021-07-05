@@ -71,7 +71,9 @@ Bonus Wifi | ssid:password
     
      
 *this content not exist of R34     
-    
+     
+Well I dont like reading other peoples code either :D     
+thats why i couldnt tell you what u did wrong only that someone has the solution     
     
     
     
