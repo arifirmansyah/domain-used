@@ -63,6 +63,9 @@ Helping Pixel
 https://github.com/donatj/Circle-Generator    
     
     
+Software and Hardware VRoid    
+https://virtualyoutuber.fandom.com/wiki/List_of_VTuber-related_software_and_resources    
+    
     
 Bonus Wifi | ssid:password    
 @Perpus Kota Jogjakarta | faaqd5 : 26ue8n    
