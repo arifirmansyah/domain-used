@@ -72,6 +72,10 @@ https://www.stardewvalley.net/
 https://stardewvalleywiki.com/Stardew_Valley_Wiki    
     
     
+https://anuke.itch.io/mindustry    
+https://github.com/Anuken/Mindustry    
+    
+    
     
 Bonus Wifi | ssid:password    
 @Perpus Kota Jogjakarta | faaqd5 : 26ue8n    
