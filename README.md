@@ -67,6 +67,12 @@ Software and Hardware VRoid
 https://virtualyoutuber.fandom.com/wiki/List_of_VTuber-related_software_and_resources    
     
     
+STARDEW VALLEY     
+https://www.stardewvalley.net/    
+https://stardewvalleywiki.com/Stardew_Valley_Wiki    
+    
+    
+    
 Bonus Wifi | ssid:password    
 @Perpus Kota Jogjakarta | faaqd5 : 26ue8n    
 @Wifi Alun" Sleman - perpus sleman | koneksikan lalu login di web browser     
