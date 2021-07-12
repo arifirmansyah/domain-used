@@ -86,6 +86,12 @@ http://www.menaragames.com/
 http://www.maximizegames.com/    
 http://kidalang.com/    
 https://agate.id/    
+http://creacle.com/    
+http://garudagames.com/    
+https://www.nightspade.com/    
+https://www.altermyth.com/    
+https://www.educastudio.com/    
+
 
 
     
