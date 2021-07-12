@@ -75,7 +75,19 @@ https://stardewvalleywiki.com/Stardew_Valley_Wiki
 https://anuke.itch.io/mindustry    
 https://github.com/Anuken/Mindustry    
     
-    
+Game Studio Indonesia.    
+http://alegrium.com/    
+http://kidalang.com/    
+http://touchten.com/    
+http://www.togeproductions.com/    
+http://www.tinkerworlds.com/    
+http://www.own-games.com/    
+http://www.menaragames.com/    
+http://www.maximizegames.com/    
+http://kidalang.com/    
+https://agate.id/    
+
+
     
 Bonus Wifi | ssid:password    
 @Perpus Kota Jogjakarta | faaqd5 : 26ue8n    
