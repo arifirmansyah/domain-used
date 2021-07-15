@@ -118,6 +118,24 @@ https://www.educastudio.com/
 OWOW    
 https://www.youtube.com/watch?v=4JZ8uLmCvHI    
 
+DONATIONS() INDIE (ANYTHING)
+https://www.patreon.com/    
+https://www.kickstarter.com/    
+https://kitabisa.com/campaign/karyanesia    
+https://www.indiegogo.com/    
+https://saweria.co/    
+https://www.sociabuzz.com/tribelive    
+https://nyawer.co/HyerS    
+https://trakteer.id/tirapuw    
+https://gandengtangan.co.id/        
+https://streamlabs.com/mister_sunday        
+
+
+INSPIRATION    
+https://fistoftheforgotten.com/    
+
+https://www.techinasia.com/crowdfunding-future-indonesia-crowdfunding-sites    
+    
     
 Bonus Wifi | ssid:password    
 @Perpus Kota Jogjakarta | faaqd5 : 26ue8n    
