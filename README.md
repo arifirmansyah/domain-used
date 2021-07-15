@@ -71,6 +71,9 @@ https://games-database.com/3gy [change after slash, as https://games-database.co
      
 Game Artist Famous          
 https://glauberkotaki.com/roguelegacy     
+     
+Website Pixel Art Tutor     
+https://www.raywenderlich.com/2888-introduction-to-pixel-art-for-games     
     
     
 STARDEW VALLEY     
