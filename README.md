@@ -133,8 +133,12 @@ https://streamlabs.com/mister_sunday
 
 INSPIRATION    
 https://fistoftheforgotten.com/    
-
-https://www.techinasia.com/crowdfunding-future-indonesia-crowdfunding-sites    
+http://www.radicalfishgames.com/presskit/sheet.php?p=crosscode    
+https://store.steampowered.com/developer/dangen    
+CELESTE from https://www.lexaloffle.com/bbs/?page=4&tid=2145 to https://www.celestegames.com/    
+    
+    
+https://www.techinasia.com/crowdfunding-future-indonesia-crowdfunding-sites     as
     
     
 Bonus Wifi | ssid:password    
