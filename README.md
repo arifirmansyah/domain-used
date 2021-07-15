@@ -94,6 +94,8 @@ http://finalbossblues.com/
 https://finalbossblues.itch.io/        
 https://opengameart.org/        
 https://ric-gamedev.itch.io/pixelarium        
+https://www.reddit.com/r/gameassets/        
+https://craftpix.net/        
         
     
 Game Studio Indonesia.    
