@@ -69,6 +69,7 @@ https://virtualyoutuber.fandom.com/wiki/List_of_VTuber-related_software_and_reso
 Database Games 4 free download    
 https://games-database.com/3gy [change after slash, as https://games-database.com/[3gy]     
 https://steamunlocked.net/     
+https://repack-games.com/     
 
      
 Game Artist Famous          
@@ -82,7 +83,7 @@ STARDEW VALLEY
 https://www.stardewvalley.net/    
 https://stardewvalleywiki.com/Stardew_Valley_Wiki    
     
-    
+GAME DEV JAM    
 https://anuke.itch.io/mindustry    
 https://github.com/Anuken/Mindustry    
 
