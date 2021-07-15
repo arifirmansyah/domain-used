@@ -66,6 +66,12 @@ https://github.com/donatj/Circle-Generator
 Software and Hardware VRoid    
 https://virtualyoutuber.fandom.com/wiki/List_of_VTuber-related_software_and_resources    
     
+Database Games 4 free download    
+https://games-database.com/3gy [change after slash, as https://games-database.com/[3gy]     
+     
+Game Artist Famous          
+https://glauberkotaki.com/roguelegacy     
+    
     
 STARDEW VALLEY     
 https://www.stardewvalley.net/    
@@ -74,6 +80,7 @@ https://stardewvalleywiki.com/Stardew_Valley_Wiki
     
 https://anuke.itch.io/mindustry    
 https://github.com/Anuken/Mindustry    
+
     
 Game Studio Indonesia.    
 http://alegrium.com/    
