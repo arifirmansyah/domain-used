@@ -5,6 +5,8 @@ https://gdevelop-app.com/
 https://ctjs.rocks/    
 https://netlify.com    
 https://www.aseprite.org/    
+https://inkscape.org/release/inkscape-1.1/ (OPEN SOURCE VECTOR EDITOR)
+https://www.gimp.org/downloads/ (BEST OPEN SOURCE USED AS PHOTO EDITOR)
 https://ytmp3.cc/    
 https://mp3cut.net/    
 https://clideo.com/    
